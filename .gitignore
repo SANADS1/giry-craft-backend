@@ -12,6 +12,7 @@ db.sqlite3
 *.sqlite3
 media/
 staticfiles/
+migrations/
 
 # VSCode / IDE
 .vscode/
